@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil no github 😉</h1>
 <p>Neste perfil vou estar postando projetos pessoais e trabalhos que for desenvolvendo com o tempo</p>
 </div>
 
-<p>📘✍ Estou Front-end.</br>
+<p>📘✍ Estou estudando Front-end.</br>
 
 <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Estou estudando HTML, CSS e javaScript.</br>
 
