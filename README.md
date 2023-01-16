@@ -6,9 +6,9 @@ Seja bem-vindo ao meu perfil no github 😉</h1>
 
 <p>📘✍ Estou estudando Front-end.</br>
 
-<img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          No momento estou ampliando meus conhecimentos em HTML, CSS e javaScript e aprendendo React.</br>
+<img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          Cada vez foncando no momento em HTML, CSS e javaScript.</br>
 
 💻📘 Atualmente estou fazendo os cursos da <a href="https://www.alura.com.br/">Alura</a>.</br> 
 
