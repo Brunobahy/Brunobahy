@@ -8,7 +8,7 @@ Seja bem-vindo ao meu perfil no github 😉</h1>
 
 <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          Cada vez foncando no momento em HTML, CSS e javaScript.</br>
+Estou foncando no momento em CSS, javaScript e REACT.</br>
 
 💻📘 Atualmente estou fazendo os cursos da <a href="https://www.alura.com.br/">Alura</a>.</br> 
 
