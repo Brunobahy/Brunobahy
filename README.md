@@ -12,7 +12,7 @@ Estou foncando no momento em CSS, javaScript e REACT.</br>
 
 💻📘 Atualmente estou fazendo os cursos da <a href="https://www.alura.com.br/">Alura</a>.</br> 
 
-👷‍🛠Estou trabalho como técnico em informática.</br>
+👷‍🛠Estou trabalhando como técnico em informática.</br>
 
 🆙📈Sempre procurando novas oportunidades para crescer profissionalmente.</br>
 
