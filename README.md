@@ -8,9 +8,12 @@ Seja bem-vindo ao meu perfil no github 😉</h1>
 
 <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-Estou foncando no momento em CSS, javaScript e REACT.</br>
+Estou foncando no momento em javaScript, React.js e Next.js.</br>
 
-💻📘 Atualmente estou fazendo os cursos da <a href="https://www.alura.com.br/">Alura</a>.</br> 
+📄💻Aqui está meu <a href='https://bruno-bahy.vercel.app/'>Portfólio<a/> desenvolvido em React.js.
+
+
+💻📘Atualmente estou fazendo os cursos da <a href="https://www.alura.com.br/">Alura</a>.</br> 
 
 👷‍🛠Estou trabalhando como técnico em informática.</br>
 
